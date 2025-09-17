@@ -19,3 +19,5 @@ env/
 # Ignore plots if generated dynamically
 plots/
 
+*.joblib
+.DS_Store
